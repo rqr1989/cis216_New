@@ -15,11 +15,11 @@ C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63496
+61514
 Successfully changed project path to: C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 37.33 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 34.78 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.26f1 (7298b473bc1a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
@@ -35,89 +35,89 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56120
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56096
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001332 seconds.
+Registered in 0.001135 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 32.60 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 33.92 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.465 seconds
+- Completed reload, in  0.418 seconds
 Domain Reload Profiling:
-	ReloadAssembly (465ms)
-		BeginReloadAssembly (36ms)
+	ReloadAssembly (418ms)
+		BeginReloadAssembly (40ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (372ms)
-			LoadAssemblies (33ms)
+		EndReloadAssembly (326ms)
+			LoadAssemblies (38ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (116ms)
+			SetupTypeCache (99ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (20ms)
-			SetupLoadedEditorAssemblies (153ms)
+			RebuildScriptCaches (21ms)
+			SetupLoadedEditorAssemblies (128ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (33ms)
-				BeforeProcessingInitializeOnLoad (12ms)
-				ProcessInitializeOnLoadAttributes (77ms)
-				ProcessInitializeOnLoadMethodAttributes (29ms)
+				RefreshPlugins (34ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (59ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006495 seconds.
+Registered in 0.005729 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 40.11 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 33.53 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.949 seconds
+- Completed reload, in  0.827 seconds
 Domain Reload Profiling:
-	ReloadAssembly (950ms)
-		BeginReloadAssembly (117ms)
+	ReloadAssembly (827ms)
+		BeginReloadAssembly (101ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
+			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (14ms)
-		EndReloadAssembly (783ms)
-			LoadAssemblies (72ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (683ms)
+			LoadAssemblies (73ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (267ms)
+			SetupTypeCache (204ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (289ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (267ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (40ms)
-				BeforeProcessingInitializeOnLoad (68ms)
-				ProcessInitializeOnLoadAttributes (160ms)
-				ProcessInitializeOnLoadMethodAttributes (13ms)
+				RefreshPlugins (34ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (144ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2210 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2211 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 96.2 MB.
 System memory in use after: 96.3 MB.
 
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2644.
-Total: 2.382400 ms (FindLiveObjects: 0.145000 ms CreateObjectMapping: 0.039400 ms MarkObjects: 2.143400 ms  DeleteObjects: 0.053700 ms)
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2645.
+Total: 2.387300 ms (FindLiveObjects: 0.142200 ms CreateObjectMapping: 0.037000 ms MarkObjects: 2.148600 ms  DeleteObjects: 0.058300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,353 +131,353 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Graphics/Characters/Pandora Grappling Hook Diagonal-Sheet.png
-  artifactKey: Guid(3bd205777bcc5fc44bbffaac27036a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Grappling Hook Diagonal-Sheet.png using Guid(3bd205777bcc5fc44bbffaac27036a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c1ea58afbfe53c6595e705a084d9b2') in 0.081896 seconds 
-  Import took 0.087349 seconds .
+  path: Assets/Scripts/Player_Movement.cs
+  artifactKey: Guid(ce07fae9245709749b8aed8d4563f31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player_Movement.cs using Guid(ce07fae9245709749b8aed8d4563f31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea6f6404b284075866d3df4cf7a0865f') in 0.053070 seconds 
+  Import took 0.057595 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Graphics/Characters/Snake Attack-Sheet (1).png
-  artifactKey: Guid(285eae1c51849f541a57115e3a5e4b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Snake Attack-Sheet (1).png using Guid(285eae1c51849f541a57115e3a5e4b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62042c68ebf482c6cb522009de0a42ae') in 0.018194 seconds 
-  Import took 0.023842 seconds .
+  Time since last request: 29.664782 seconds.
+  path: Assets/Scripts/Player_Movement.cs
+  artifactKey: Guid(ce07fae9245709749b8aed8d4563f31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player_Movement.cs using Guid(ce07fae9245709749b8aed8d4563f31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9bd8883ff1ba2a7c27da0d0628a783f') in 0.003046 seconds 
+  Import took 0.008907 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000650 seconds.
-  path: Assets/Graphics/Characters/Pandora Grappling Hook-Sheet.png
-  artifactKey: Guid(eeff0a4ac7543c64fa1e1694351ec87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Grappling Hook-Sheet.png using Guid(eeff0a4ac7543c64fa1e1694351ec87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a498ca0c46ae56942a29618062cd07') in 0.015929 seconds 
-  Import took 0.023368 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007088 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.696 seconds
+Domain Reload Profiling:
+	ReloadAssembly (696ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (564ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (195ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (206ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (135ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.6 MB.
+System memory in use after: 95.7 MB.
 
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2647.
+Total: 2.237100 ms (FindLiveObjects: 0.135500 ms CreateObjectMapping: 0.046900 ms MarkObjects: 2.036000 ms  DeleteObjects: 0.018000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000439 seconds.
-  path: Assets/Graphics/Characters/Pandora-Sheet (1).png
-  artifactKey: Guid(5be4fa8f28ae8ea45bcb03faf5ce17a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora-Sheet (1).png using Guid(5be4fa8f28ae8ea45bcb03faf5ce17a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52e6909836d38465cdacc60ed579334') in 0.013048 seconds 
-  Import took 0.017688 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004921 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.669 seconds
+Domain Reload Profiling:
+	ReloadAssembly (669ms)
+		BeginReloadAssembly (77ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (552ms)
+			LoadAssemblies (66ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (193ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (196ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (53ms)
+				ProcessInitializeOnLoadAttributes (128ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.6 MB.
+System memory in use after: 95.8 MB.
 
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2649.
+Total: 2.123500 ms (FindLiveObjects: 0.123000 ms CreateObjectMapping: 0.036900 ms MarkObjects: 1.946800 ms  DeleteObjects: 0.016000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000345 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Health Magic)-Sheet.png
-  artifactKey: Guid(c8c4d5409f59b2d4fb01aeb4a5d43199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Health Magic)-Sheet.png using Guid(c8c4d5409f59b2d4fb01aeb4a5d43199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '753662e78093ef8f91ec92f203ba1874') in 0.012551 seconds 
-  Import took 0.018165 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005342 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.670 seconds
+Domain Reload Profiling:
+	ReloadAssembly (671ms)
+		BeginReloadAssembly (83ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (548ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (186ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (198ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (129ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.8 MB.
 
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2651.
+Total: 2.074400 ms (FindLiveObjects: 0.119400 ms CreateObjectMapping: 0.034000 ms MarkObjects: 1.902800 ms  DeleteObjects: 0.017400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000530 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Basic Magic)-Sheet.png
-  artifactKey: Guid(b672d34db71317e41940c253d7eedc48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Basic Magic)-Sheet.png using Guid(b672d34db71317e41940c253d7eedc48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10d5deee7d66db2e9accd9bc218dd3f4') in 0.012256 seconds 
-  Import took 0.016353 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005632 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.678 seconds
+Domain Reload Profiling:
+	ReloadAssembly (678ms)
+		BeginReloadAssembly (83ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (555ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (189ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (199ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (53ms)
+				ProcessInitializeOnLoadAttributes (131ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.8 MB.
 
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2653.
+Total: 2.356900 ms (FindLiveObjects: 0.112400 ms CreateObjectMapping: 0.032100 ms MarkObjects: 2.195900 ms  DeleteObjects: 0.015600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000368 seconds.
-  path: Assets/Graphics/Characters/Snake Moving-Sheet (1).png
-  artifactKey: Guid(2d9b49f61e6de66409c1fa60fa070d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Snake Moving-Sheet (1).png using Guid(2d9b49f61e6de66409c1fa60fa070d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b6aa49513469ccb179b92daa92e651d') in 0.012745 seconds 
-  Import took 0.016989 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005410 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.666 seconds
+Domain Reload Profiling:
+	ReloadAssembly (666ms)
+		BeginReloadAssembly (80ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (543ms)
+			LoadAssemblies (67ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (189ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (194ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (52ms)
+				ProcessInitializeOnLoadAttributes (128ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.8 MB.
 
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2655.
+Total: 2.243200 ms (FindLiveObjects: 0.137500 ms CreateObjectMapping: 0.033900 ms MarkObjects: 2.058900 ms  DeleteObjects: 0.012300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000436 seconds.
-  path: Assets/Graphics/Characters/Snake-Sheet (1).png
-  artifactKey: Guid(846a2d03d43e6da4f89f61a1488b9a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Snake-Sheet (1).png using Guid(846a2d03d43e6da4f89f61a1488b9a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89de4edc7c8f11279d5d7c9528754d65') in 0.012596 seconds 
-  Import took 0.016655 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005300 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.673 seconds
+Domain Reload Profiling:
+	ReloadAssembly (673ms)
+		BeginReloadAssembly (88ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (544ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (185ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (200ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (131ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.8 MB.
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000373 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Fire Magic)-Sheet.png
-  artifactKey: Guid(b935e1139ec24954b97d196ccbd224c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Fire Magic)-Sheet.png using Guid(b935e1139ec24954b97d196ccbd224c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87544145fe62cacdae368a489fa41ffb') in 0.010728 seconds 
-  Import took 0.015840 seconds .
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2657.
+Total: 2.117400 ms (FindLiveObjects: 0.107800 ms CreateObjectMapping: 0.034400 ms MarkObjects: 1.959000 ms  DeleteObjects: 0.015300 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 149.708218 seconds.
-  path: Assets/Graphics/Characters/Snake Attack-Sheet (1).png
-  artifactKey: Guid(285eae1c51849f541a57115e3a5e4b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Snake Attack-Sheet (1).png using Guid(285eae1c51849f541a57115e3a5e4b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f02d5dc171baa390dec58d55c152eb') in 0.022245 seconds 
-  Import took 0.028665 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.765866 seconds.
-  path: Assets/Graphics/Characters/Snake Attack-Sheet (1).png
-  artifactKey: Guid(285eae1c51849f541a57115e3a5e4b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Snake Attack-Sheet (1).png using Guid(285eae1c51849f541a57115e3a5e4b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f778801ba3cdb507e5801847222d351') in 0.034180 seconds 
-  Import took 0.040326 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.722118 seconds.
-  path: Assets/Graphics/Characters/Snake Moving-Sheet (1).png
-  artifactKey: Guid(2d9b49f61e6de66409c1fa60fa070d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Snake Moving-Sheet (1).png using Guid(2d9b49f61e6de66409c1fa60fa070d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '669dfbe2b85b8e8e62af09a2afe64752') in 0.009082 seconds 
-  Import took 0.014668 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.704678 seconds.
-  path: Assets/Graphics/Characters/Snake Moving-Sheet (1).png
-  artifactKey: Guid(2d9b49f61e6de66409c1fa60fa070d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Snake Moving-Sheet (1).png using Guid(2d9b49f61e6de66409c1fa60fa070d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a971407216f2900a721080ed8c829c1') in 0.041664 seconds 
-  Import took 0.046939 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.870131 seconds.
-  path: Assets/Graphics/Characters/Snake Moving-Sheet (1).png
-  artifactKey: Guid(2d9b49f61e6de66409c1fa60fa070d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Snake Moving-Sheet (1).png using Guid(2d9b49f61e6de66409c1fa60fa070d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ecf24e3a593719fb4d655f5889f724d') in 0.029528 seconds 
-  Import took 0.035354 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.333425 seconds.
-  path: Assets/Graphics/Characters/Pandora Grappling Hook Diagonal-Sheet.png
-  artifactKey: Guid(3bd205777bcc5fc44bbffaac27036a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Grappling Hook Diagonal-Sheet.png using Guid(3bd205777bcc5fc44bbffaac27036a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffe1bf630d25e6d0bc6ef4530975516') in 0.010193 seconds 
-  Import took 0.018357 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.006383 seconds.
-  path: Assets/Graphics/Characters/Pandora Grappling Hook Diagonal-Sheet.png
-  artifactKey: Guid(3bd205777bcc5fc44bbffaac27036a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Grappling Hook Diagonal-Sheet.png using Guid(3bd205777bcc5fc44bbffaac27036a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '153fb86925d47bb8d6d1247db3f2c8cc') in 0.038497 seconds 
-  Import took 0.043084 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.150176 seconds.
-  path: Assets/Graphics/Characters/Pandora Grappling Hook-Sheet.png
-  artifactKey: Guid(eeff0a4ac7543c64fa1e1694351ec87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Grappling Hook-Sheet.png using Guid(eeff0a4ac7543c64fa1e1694351ec87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55df139d4eb35d6e5c059de147a55e44') in 0.011196 seconds 
-  Import took 0.017909 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.301693 seconds.
-  path: Assets/Graphics/Characters/Pandora Grappling Hook-Sheet.png
-  artifactKey: Guid(eeff0a4ac7543c64fa1e1694351ec87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Grappling Hook-Sheet.png using Guid(eeff0a4ac7543c64fa1e1694351ec87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '007989b289d951437e573d70b7c9d584') in 0.036223 seconds 
-  Import took 0.042324 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.616988 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Health Magic)-Sheet.png
-  artifactKey: Guid(c8c4d5409f59b2d4fb01aeb4a5d43199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Health Magic)-Sheet.png using Guid(c8c4d5409f59b2d4fb01aeb4a5d43199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '349b8292888a877020bda55f40ed6e37') in 0.010223 seconds 
-  Import took 0.016787 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.664382 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Health Magic)-Sheet.png
-  artifactKey: Guid(c8c4d5409f59b2d4fb01aeb4a5d43199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Health Magic)-Sheet.png using Guid(c8c4d5409f59b2d4fb01aeb4a5d43199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '968067b42b535f6915bb5228dc1a2adb') in 0.058529 seconds 
-  Import took 0.063273 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.382919 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Fire Magic)-Sheet.png
-  artifactKey: Guid(b935e1139ec24954b97d196ccbd224c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Fire Magic)-Sheet.png using Guid(b935e1139ec24954b97d196ccbd224c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4bf5b1ba56e7d59aa2268c79421402a') in 0.008487 seconds 
-  Import took 0.014325 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.662904 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Fire Magic)-Sheet.png
-  artifactKey: Guid(b935e1139ec24954b97d196ccbd224c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Fire Magic)-Sheet.png using Guid(b935e1139ec24954b97d196ccbd224c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54788072903d0bfbe781851fac9b466c') in 0.063378 seconds 
-  Import took 0.068000 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 146.669319 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Fire Magic)-Sheet.png
-  artifactKey: Guid(b935e1139ec24954b97d196ccbd224c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Fire Magic)-Sheet.png using Guid(b935e1139ec24954b97d196ccbd224c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f153d75b78671a16c3f267614e1d4287') in 0.037199 seconds 
-  Import took 0.042528 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 184.189857 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Basic Magic)-Sheet.png
-  artifactKey: Guid(b672d34db71317e41940c253d7eedc48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Basic Magic)-Sheet.png using Guid(b672d34db71317e41940c253d7eedc48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93dfaeb992f46a6527be8794fa43fd2') in 0.021407 seconds 
-  Import took 0.027259 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000299 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Sword)-Sheet (2).png
-  artifactKey: Guid(d42104dc1dc1fd94d8edc1ae2c5e90ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Sword)-Sheet (2).png using Guid(d42104dc1dc1fd94d8edc1ae2c5e90ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '285ba785ffc4a87627f1ada9f7fb457a') in 0.028032 seconds 
-  Import took 0.033030 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000446 seconds.
-  path: Assets/Graphics/Characters/Pandora-Sheet (2).png
-  artifactKey: Guid(a81a6267c0605da448c9dc8981c1780d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora-Sheet (2).png using Guid(a81a6267c0605da448c9dc8981c1780d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c7db3e60675249250e0acfc2cb8a7d') in 0.014803 seconds 
-  Import took 0.019790 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000508 seconds.
-  path: Assets/Graphics/Characters/Pandora Jumping-Sheet (1).png
-  artifactKey: Guid(d24fad038a400634faf69e8a7ba03f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Jumping-Sheet (1).png using Guid(d24fad038a400634faf69e8a7ba03f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96b87b9e4984c97f609cdbaa7963619') in 0.013935 seconds 
-  Import took 0.019734 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/Graphics/Characters/Skelly Attack-Sheet.png
-  artifactKey: Guid(ef736dccfb8db7f408bc9ae002fe22b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Skelly Attack-Sheet.png using Guid(ef736dccfb8db7f408bc9ae002fe22b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58689d0594e8aba9028bb7798212a23') in 0.015155 seconds 
-  Import took 0.021168 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000441 seconds.
-  path: Assets/Graphics/Characters/Skelly Walking-Sheet.png
-  artifactKey: Guid(ce34b2b53a1a3eb449dec22c810f4cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Skelly Walking-Sheet.png using Guid(ce34b2b53a1a3eb449dec22c810f4cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4832f96d17d0c300f1462b7fd7eeb543') in 0.014394 seconds 
-  Import took 0.020225 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000644 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Magic)-Sheet.png
-  artifactKey: Guid(2ae67f466612eb44783405c8ca077594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Magic)-Sheet.png using Guid(2ae67f466612eb44783405c8ca077594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5572163b9bdff02c6ff941a56daa12') in 0.015010 seconds 
-  Import took 0.019797 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.283798 seconds.
-  path: Assets/Graphics/Characters/Skelly Walking-Sheet.png
-  artifactKey: Guid(ce34b2b53a1a3eb449dec22c810f4cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Skelly Walking-Sheet.png using Guid(ce34b2b53a1a3eb449dec22c810f4cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3c7efd01e33880cd998a5c686a3b1f') in 0.010516 seconds 
-  Import took 0.015084 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.827092 seconds.
-  path: Assets/Graphics/Characters/Skelly Walking-Sheet.png
-  artifactKey: Guid(ce34b2b53a1a3eb449dec22c810f4cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Skelly Walking-Sheet.png using Guid(ce34b2b53a1a3eb449dec22c810f4cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f403892796f600591882e43a0cb1fd8') in 0.038883 seconds 
-  Import took 0.043711 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.091221 seconds.
-  path: Assets/Graphics/Characters/Skelly Attack-Sheet.png
-  artifactKey: Guid(ef736dccfb8db7f408bc9ae002fe22b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Skelly Attack-Sheet.png using Guid(ef736dccfb8db7f408bc9ae002fe22b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8b6de391cea61807f45707c7e92457') in 0.010878 seconds 
-  Import took 0.014967 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.468373 seconds.
-  path: Assets/Graphics/Characters/Skelly Attack-Sheet.png
-  artifactKey: Guid(ef736dccfb8db7f408bc9ae002fe22b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Skelly Attack-Sheet.png using Guid(ef736dccfb8db7f408bc9ae002fe22b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2678ccfcf7b19028c286d19fcf2358f') in 0.044379 seconds 
-  Import took 0.048735 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.649296 seconds.
-  path: Assets/Graphics/Characters/Pandora-Sheet (2).png
-  artifactKey: Guid(a81a6267c0605da448c9dc8981c1780d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora-Sheet (2).png using Guid(a81a6267c0605da448c9dc8981c1780d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4c7067b470678ec6e506d9a48ed7fa') in 0.012216 seconds 
-  Import took 0.017149 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.730516 seconds.
-  path: Assets/Graphics/Characters/Pandora-Sheet (2).png
-  artifactKey: Guid(a81a6267c0605da448c9dc8981c1780d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora-Sheet (2).png using Guid(a81a6267c0605da448c9dc8981c1780d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cac362706159c720fcf32b50620f240') in 0.034856 seconds 
-  Import took 0.038985 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.324520 seconds.
-  path: Assets/Graphics/Characters/Pandora Jumping-Sheet (1).png
-  artifactKey: Guid(d24fad038a400634faf69e8a7ba03f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Jumping-Sheet (1).png using Guid(d24fad038a400634faf69e8a7ba03f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8132c914cc120de3c3570588d0e5c20') in 0.013448 seconds 
-  Import took 0.017657 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.010322 seconds.
-  path: Assets/Graphics/Characters/Pandora Jumping-Sheet (1).png
-  artifactKey: Guid(d24fad038a400634faf69e8a7ba03f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Jumping-Sheet (1).png using Guid(d24fad038a400634faf69e8a7ba03f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a37c722b3a1ba4d35ef87f2caae6f5') in 0.038271 seconds 
-  Import took 0.042062 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.510657 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Sword)-Sheet (2).png
-  artifactKey: Guid(d42104dc1dc1fd94d8edc1ae2c5e90ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Sword)-Sheet (2).png using Guid(d42104dc1dc1fd94d8edc1ae2c5e90ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bcf544570febb3f9289dc7ed9fa2ce5') in 0.009487 seconds 
-  Import took 0.013969 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.814236 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Sword)-Sheet (2).png
-  artifactKey: Guid(d42104dc1dc1fd94d8edc1ae2c5e90ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Sword)-Sheet (2).png using Guid(d42104dc1dc1fd94d8edc1ae2c5e90ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b406e40e38a1b741ead6fad2065373cd') in 0.043485 seconds 
-  Import took 0.047337 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.791614 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Magic)-Sheet.png
-  artifactKey: Guid(2ae67f466612eb44783405c8ca077594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Magic)-Sheet.png using Guid(2ae67f466612eb44783405c8ca077594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97d3f82844b5168ba895fe15ac7c630') in 0.008061 seconds 
-  Import took 0.012806 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 77.664005 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Magic)-Sheet.png
-  artifactKey: Guid(2ae67f466612eb44783405c8ca077594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Magic)-Sheet.png using Guid(2ae67f466612eb44783405c8ca077594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9056e9f2fc4464a8001ee44428c5cadd') in 0.040394 seconds 
-  Import took 0.045380 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 89.002088 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Health Magic)-Sheet.png
-  artifactKey: Guid(c8c4d5409f59b2d4fb01aeb4a5d43199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Health Magic)-Sheet.png using Guid(c8c4d5409f59b2d4fb01aeb4a5d43199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836f6433cf3b41b26d2d5638ab4dc081') in 0.034706 seconds 
-  Import took 0.039144 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 89.992500 seconds.
-  path: Assets/Graphics/Characters/Pandora Attack (Basic Magic)-Sheet.png
-  artifactKey: Guid(b672d34db71317e41940c253d7eedc48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Pandora Attack (Basic Magic)-Sheet.png using Guid(b672d34db71317e41940c253d7eedc48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb3b3621f4f82281f68835e2feaff45') in 0.036683 seconds 
-  Import took 0.042882 seconds .
-
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
