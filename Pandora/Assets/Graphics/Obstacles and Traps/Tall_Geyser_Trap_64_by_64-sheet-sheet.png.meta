@@ -1,7 +1,64 @@
 fileFormatVersion: 2
 guid: 3845cbe509c040b45b7692dbcf438216
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4457131109076918239
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_0
+  - first:
+      213: 4357751552393810407
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_1
+  - first:
+      213: 3787947718945777782
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_2
+  - first:
+      213: -8851239959312015088
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_3
+  - first:
+      213: -8306598457119943497
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_4
+  - first:
+      213: -6180066299793171180
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_5
+  - first:
+      213: -8040034830127285959
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_6
+  - first:
+      213: 248125712000162839
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_7
+  - first:
+      213: -6797967033102534046
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_8
+  - first:
+      213: -5207938964212789507
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_9
+  - first:
+      213: 4790164185784119125
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_10
+  - first:
+      213: 8574422701553566712
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_11
+  - first:
+      213: 4401361651588987187
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_12
+  - first:
+      213: -4188499726673392037
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_13
+  - first:
+      213: 7734245356732147330
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_14
+  - first:
+      213: -5525522533462395494
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_15
+  - first:
+      213: -6592081265829485466
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_16
+  - first:
+      213: 4495262010479927435
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_17
+  - first:
+      213: -601637126056001751
+    second: Tall_Geyser_Trap_64_by_64-sheet-sheet_18
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +98,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +132,420 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf5fd9f029eadd30800000000000000
+      internalID: 4457131109076918239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e117d3d2f7d97c30800000000000000
+      internalID: 4357751552393810407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678a387816e719430800000000000000
+      internalID: 3787947718945777782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e67327241a2580800000000000000
+      internalID: -8851239959312015088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4de87a6b809bc80800000000000000
+      internalID: -8306598457119943497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1778917efb3aa0800000000000000
+      internalID: -6180066299793171180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939be708bee0c6090800000000000000
+      internalID: -8040034830127285959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c196b3505817300800000000000000
+      internalID: 248125712000162839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a7b152005c8a1a0800000000000000
+      internalID: -6797967033102534046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe4e2ada1fa9b7b0800000000000000
+      internalID: -5207938964212789507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe57592f41a7240800000000000000
+      internalID: 4790164185784119125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3452094087ef670800000000000000
+      internalID: 8574422701553566712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339fcfa4a17c41d30800000000000000
+      internalID: 4401361651588987187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ecfc1b0b57fd5c0800000000000000
+      internalID: -4188499726673392037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ebb59c2f855b60800000000000000
+      internalID: 7734245356732147330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95be8208866153b0800000000000000
+      internalID: -5525522533462395494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664e9bbd3093484a0800000000000000
+      internalID: -6592081265829485466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 0
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80e6fa4bf0626e30800000000000000
+      internalID: 4495262010479927435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Geyser_Trap_64_by_64-sheet-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 0
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fbeb1b83e86a7f0800000000000000
+      internalID: -601637126056001751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
