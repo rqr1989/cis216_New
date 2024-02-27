@@ -15,11 +15,11 @@ C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63267
+57625
 Successfully changed project path to: C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 36.06 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 42.93 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.26f1 (7298b473bc1a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
@@ -35,73 +35,73 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56368
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001084 seconds.
+Registered in 0.001245 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 33.28 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 42.29 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.400 seconds
+- Completed reload, in  0.502 seconds
 Domain Reload Profiling:
-	ReloadAssembly (400ms)
-		BeginReloadAssembly (36ms)
+	ReloadAssembly (502ms)
+		BeginReloadAssembly (46ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (314ms)
-			LoadAssemblies (34ms)
+		EndReloadAssembly (401ms)
+			LoadAssemblies (44ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (98ms)
+			SetupTypeCache (138ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (22ms)
-			SetupLoadedEditorAssemblies (121ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (153ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (33ms)
-				BeforeProcessingInitializeOnLoad (12ms)
-				ProcessInitializeOnLoadAttributes (54ms)
-				ProcessInitializeOnLoadMethodAttributes (19ms)
+				RefreshPlugins (42ms)
+				BeforeProcessingInitializeOnLoad (16ms)
+				ProcessInitializeOnLoadAttributes (71ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.010154 seconds.
+Registered in 0.010314 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 33.05 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 42.87 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.780 seconds
+- Completed reload, in  0.956 seconds
 Domain Reload Profiling:
-	ReloadAssembly (781ms)
-		BeginReloadAssembly (93ms)
+	ReloadAssembly (957ms)
+		BeginReloadAssembly (116ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (14ms)
-		EndReloadAssembly (646ms)
-			LoadAssemblies (69ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (797ms)
+			LoadAssemblies (84ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (200ms)
+			SetupTypeCache (238ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (256ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (304ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (33ms)
+				RefreshPlugins (43ms)
 				BeforeProcessingInitializeOnLoad (66ms)
-				ProcessInitializeOnLoadAttributes (138ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
+				ProcessInitializeOnLoadAttributes (164ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -110,14 +110,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2211 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 96.2 MB.
-System memory in use after: 96.3 MB.
+System memory in use before: 96.3 MB.
+System memory in use after: 96.4 MB.
 
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2645.
-Total: 2.236500 ms (FindLiveObjects: 0.116400 ms CreateObjectMapping: 0.035200 ms MarkObjects: 2.022100 ms  DeleteObjects: 0.061800 ms)
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2646.
+Total: 2.206300 ms (FindLiveObjects: 0.117200 ms CreateObjectMapping: 0.031600 ms MarkObjects: 1.991200 ms  DeleteObjects: 0.065300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,49 +131,41 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Graphics/Obstacles and Traps/Geyser_Trap_64_by_64-sheet.png
-  artifactKey: Guid(475996997e9631b489a7ad3d8da57e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Obstacles and Traps/Geyser_Trap_64_by_64-sheet.png using Guid(475996997e9631b489a7ad3d8da57e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c5e3eaa9eee21b853bfafb6232db22') in 0.084102 seconds 
-  Import took 0.088419 seconds .
+  path: Assets/level 1 and 2 pandora tileset.png
+  artifactKey: Guid(359915153b0ff954ca31824d13a8c186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/level 1 and 2 pandora tileset.png using Guid(359915153b0ff954ca31824d13a8c186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644e4c999f8996f2959eb08ee60920f2') in 0.086195 seconds 
+  Import took 0.091391 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.414673 seconds.
-  path: Assets/Graphics/Obstacles and Traps/Geyser_Trap_64_by_64-sheet.png
-  artifactKey: Guid(475996997e9631b489a7ad3d8da57e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Obstacles and Traps/Geyser_Trap_64_by_64-sheet.png using Guid(475996997e9631b489a7ad3d8da57e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6850f5416bc8bd9a21fdf47a06ff78b') in 0.077761 seconds 
-  Import took 0.082318 seconds .
+  Time since last request: 1.076095 seconds.
+  path: Assets/level 1 and 2 pandora tileset.png
+  artifactKey: Guid(359915153b0ff954ca31824d13a8c186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/level 1 and 2 pandora tileset.png using Guid(359915153b0ff954ca31824d13a8c186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87313fa450692f13ca115059923068d0') in 0.013425 seconds 
+  Import took 0.019540 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 315.141278 seconds.
-  path: Assets/Graphics/Obstacles and Traps/Tall-Geyser.anim
-  artifactKey: Guid(e99606e65f590c34c88e3ccccdb1a13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Obstacles and Traps/Tall-Geyser.anim using Guid(e99606e65f590c34c88e3ccccdb1a13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b383d83a6e9c3682f282c0d7c555b324') in 0.007582 seconds 
-  Import took 0.013659 seconds .
+  Time since last request: 521.573221 seconds.
+  path: Assets/level 1 and 2 pandora tileset.png
+  artifactKey: Guid(359915153b0ff954ca31824d13a8c186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/level 1 and 2 pandora tileset.png using Guid(359915153b0ff954ca31824d13a8c186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0d7ad2e6201cb7c4593281e5a7432e') in 0.047108 seconds 
+  Import took 0.052059 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.155603 seconds.
-  path: Assets/Graphics/Obstacles and Traps/Tall_Geyser_Trap_64_by_64-sheet-sheet.controller
-  artifactKey: Guid(caf1fe568dbcea8428c99638409319af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Obstacles and Traps/Tall_Geyser_Trap_64_by_64-sheet-sheet.controller using Guid(caf1fe568dbcea8428c99638409319af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56809cdae88040aba40d0acf2fbef0ae') in 0.004868 seconds 
-  Import took 0.009916 seconds .
+  Time since last request: 415.742861 seconds.
+  path: Assets/Graphics/Platforms/Pandora-tileset- caves of delphi.png
+  artifactKey: Guid(89286c48db6041349bb453db27097fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Platforms/Pandora-tileset- caves of delphi.png using Guid(89286c48db6041349bb453db27097fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f6658a29d876e27d7ba303ecea0d58') in 0.042695 seconds 
+  Import took 0.047822 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.970772 seconds.
-  path: Assets/Graphics/Obstacles and Traps/Tall_Geyser_Trap_64_by_64-sheet-sheet.png
-  artifactKey: Guid(3845cbe509c040b45b7692dbcf438216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Obstacles and Traps/Tall_Geyser_Trap_64_by_64-sheet-sheet.png using Guid(3845cbe509c040b45b7692dbcf438216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe27f2fcbb3eccfd87e7590d9b818f2') in 0.011083 seconds 
-  Import took 0.016301 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.423407 seconds.
-  path: Assets/Graphics/Obstacles and Traps/Tall_Geyser_Trap_64_by_64-sheet-sheet.png
-  artifactKey: Guid(3845cbe509c040b45b7692dbcf438216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Obstacles and Traps/Tall_Geyser_Trap_64_by_64-sheet-sheet.png using Guid(3845cbe509c040b45b7692dbcf438216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f3834b9e181430eb867dc57fad7747') in 0.055144 seconds 
-  Import took 0.059896 seconds .
+  Time since last request: 28.400195 seconds.
+  path: Assets/Graphics/Platforms/Pandora-tileset- caves of delphi.png
+  artifactKey: Guid(89286c48db6041349bb453db27097fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Platforms/Pandora-tileset- caves of delphi.png using Guid(89286c48db6041349bb453db27097fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '508a9bb5c91ee59ccaea963722792fc0') in 0.051159 seconds 
+  Import took 0.055981 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
