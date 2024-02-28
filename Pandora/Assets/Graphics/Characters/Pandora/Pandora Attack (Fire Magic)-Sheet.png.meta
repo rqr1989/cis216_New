@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: b935e1139ec24954b97d196ccbd224c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -684384827070585906
+    second: Pandora Attack (Fire Magic)-Sheet_0
+  - first:
+      213: -8228764059910673036
+    second: Pandora Attack (Fire Magic)-Sheet_1
+  - first:
+      213: 7841868892575801950
+    second: Pandora Attack (Fire Magic)-Sheet_2
+  - first:
+      213: 2310796433721533535
+    second: Pandora Attack (Fire Magic)-Sheet_3
+  - first:
+      213: 1861324273479540307
+    second: Pandora Attack (Fire Magic)-Sheet_4
+  - first:
+      213: 9019594026753445457
+    second: Pandora Attack (Fire Magic)-Sheet_5
+  - first:
+      213: -3014506974880885876
+    second: Pandora Attack (Fire Magic)-Sheet_6
+  - first:
+      213: -2176160685638888694
+    second: Pandora Attack (Fire Magic)-Sheet_7
+  - first:
+      213: -8642770478171944112
+    second: Pandora Attack (Fire Magic)-Sheet_8
+  - first:
+      213: 3701274065096132588
+    second: Pandora Attack (Fire Magic)-Sheet_9
+  - first:
+      213: -3168277653815106678
+    second: Pandora Attack (Fire Magic)-Sheet_10
+  - first:
+      213: 600235906400128505
+    second: Pandora Attack (Fire Magic)-Sheet_11
+  - first:
+      213: 6646592255388743752
+    second: Pandora Attack (Fire Magic)-Sheet_12
+  - first:
+      213: -8504845528187826436
+    second: Pandora Attack (Fire Magic)-Sheet_13
+  - first:
+      213: -2243978918977905580
+    second: Pandora Attack (Fire Magic)-Sheet_14
+  - first:
+      213: -6158939551919160753
+    second: Pandora Attack (Fire Magic)-Sheet_15
+  - first:
+      213: 8080494329591606741
+    second: Pandora Attack (Fire Magic)-Sheet_16
+  - first:
+      213: -6339446455548496302
+    second: Pandora Attack (Fire Magic)-Sheet_17
+  - first:
+      213: -41433774765632728
+    second: Pandora Attack (Fire Magic)-Sheet_18
+  - first:
+      213: 5643676956967780494
+    second: Pandora Attack (Fire Magic)-Sheet_19
+  - first:
+      213: 1850003838243411727
+    second: Pandora Attack (Fire Magic)-Sheet_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pandora Attack (Fire Magic)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 131
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec36ac430a39086f0800000000000000
+      internalID: -684384827070585906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandora Attack (Fire Magic)-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 131
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47de5847fae8dcd80800000000000000
+      internalID: -8228764059910673036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandora Attack (Fire Magic)-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 131
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52aa25b53ae3dc60800000000000000
+      internalID: 7841868892575801950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandora Attack (Fire Magic)-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 131
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5426340d19911020800000000000000
+      internalID: 2310796433721533535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandora Attack (Fire Magic)-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 66
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e5f84a090c4d910800000000000000
+      internalID: 1861324273479540307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandora Attack (Fire Magic)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 66
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ecfdebaf80c2d70800000000000000
+      internalID: 9019594026753445457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandora Attack (Fire Magic)-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 66
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03d25ed269bcc1e0800000000000000
+      internalID: -2176160685638888694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandora Attack (Fire Magic)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 66
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7cb6ae6219d5330800000000000000
+      internalID: 3701274065096132588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandora Attack (Fire Magic)-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddaddcc7cea32070800000000000000
+      internalID: 8080494329591606741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pandora Attack (Fire Magic)-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 56
+        height: 52
+      alignment: 9
+      pivot: {x: 0.41979954, y: 0.51439506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e804f177a4e525e40800000000000000
+      internalID: 5643676956967780494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
