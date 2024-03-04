@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: c6493566eaff78145bcc303876b0b461
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1696876050432178802
+    second: Greed (Melee)-Sheet left_4
+  - first:
+      213: -7284953630116838851
+    second: Greed (Melee)-Sheet left_
+  - first:
+      213: -7012106280444704511
+    second: Greed (Melee)-Sheet left_2
+  - first:
+      213: -7967338457746004831
+    second: Greed (Melee)-Sheet left_
+  - first:
+      213: -7996484750940476643
+    second: Greed (Melee)-Sheet left_6
+  - first:
+      213: -5996277198464952905
+    second: Greed (Melee)-Sheet left_5
+  - first:
+      213: -4356096382770621109
+    second: Greed (Melee)-Sheet left_7
+  - first:
+      213: 6543074266064484293
+    second: Greed (Melee)-Sheet left_6
+  - first:
+      213: -6628645450502644063
+    second: Greed (Melee)-Sheet left_20
+  - first:
+      213: -5339414654238222995
+    second: Greed (Melee)-Sheet left_24
+  - first:
+      213: 6807248816868235949
+    second: Greed (Melee)-Sheet left_26
+  - first:
+      213: -7006987564898126182
+    second: Greed (Melee)-Sheet left_15
+  - first:
+      213: 3281262193271732511
+    second: Greed (Melee)-Sheet left_28
+  - first:
+      213: -998932213998614584
+    second: Greed (Melee)-Sheet left_11
+  - first:
+      213: -8738381225958674324
+    second: Greed (Melee)-Sheet left_10
+  - first:
+      213: -5424210631380333325
+    second: Greed (Melee)-Sheet left_5
+  - first:
+      213: -3106846780713920693
+    second: Greed (Melee)-Sheet left_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 384
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab0e507c38c8710800000000000000
+      internalID: 1696876050432178802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 384
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3281bf4545a6ea90800000000000000
+      internalID: -7284953630116838851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 384
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ceca5d7effae90800000000000000
+      internalID: -7012106280444704511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 384
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4adbca2e35e6190800000000000000
+      internalID: -7967338457746004831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 256
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b6d587c77c60190800000000000000
+      internalID: -7996484750940476643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 257
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5d8ba58a1f8cca0800000000000000
+      internalID: -5996277198464952905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 258
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45d7916b690c83c0800000000000000
+      internalID: -4356096382770621109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7f5c7d06badca50800000000000000
+      internalID: 6543074266064484293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_20
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 298
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aed7c435125204a0800000000000000
+      internalID: -6628645450502644063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_24
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 287
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d659d9159a696e5b0800000000000000
+      internalID: -5339414654238222995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 260
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa112b8bb4387e50800000000000000
+      internalID: 6807248816868235949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 131
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96faa03fed22ce90800000000000000
+      internalID: -7006987564898126182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 196
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1971e47492698d20800000000000000
+      internalID: 3281262193271732511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 128
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c70be5a1741322f0800000000000000
+      internalID: -998932213998614584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 128
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c607acaa2980bb680800000000000000
+      internalID: -8738381225958674324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 128
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc8da16b2559b4b0800000000000000
+      internalID: -5424210631380333325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Melee)-Sheet left_13
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b471bff405342e4d0800000000000000
+      internalID: -3106846780713920693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

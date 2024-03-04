@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: b2b13788d8cb6384080975c10066a445
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8228702320951861081
+    second: Greed (Magic)-Sheet_0
+  - first:
+      213: 4447917566366812342
+    second: Greed (Magic)-Sheet_1
+  - first:
+      213: -5686943163458427948
+    second: Greed (Magic)-Sheet_2
+  - first:
+      213: 6915361028318128921
+    second: Greed (Magic)-Sheet_4
+  - first:
+      213: 6561944752581217360
+    second: Greed (Magic)-Sheet_5
+  - first:
+      213: -3227933650656992432
+    second: Greed (Magic)-Sheet_
+  - first:
+      213: 2666874720193582952
+    second: Greed (Magic)-Sheet_8
+  - first:
+      213: -3523020565822888268
+    second: Greed (Magic)-Sheet_
+  - first:
+      213: -3037620970877056918
+    second: Greed (Magic)-Sheet_9
+  - first:
+      213: -3929607367205004097
+    second: Greed (Magic)-Sheet_6
+  - first:
+      213: 2226765338420945587
+    second: Greed (Magic)-Sheet_11
+  - first:
+      213: -3329748575419751545
+    second: Greed (Magic)-Sheet_12
+  - first:
+      213: 6203450594104501250
+    second: Greed (Magic)-Sheet_45
+  - first:
+      213: -5957196217998011241
+    second: Greed (Magic)-Sheet_13
+  - first:
+      213: 1654853141942323675
+    second: Greed (Magic)-Sheet_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 384
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f94c2d929323270800000000000000
+      internalID: 8228702320951861081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 384
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b88385e57d2abd30800000000000000
+      internalID: 4447917566366812342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 384
+        width: 139
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d36934d25be311b0800000000000000
+      internalID: -5686943163458427948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 384
+        width: 196
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6b72573c48ff50800000000000000
+      internalID: 6915361028318128921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 256
+        width: 184
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c875d5cf5b01b50800000000000000
+      internalID: 6561944752581217360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 256
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0536f0272731433d0800000000000000
+      internalID: -3227933650656992432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 256
+        width: 186
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679b95ad64a20520800000000000000
+      internalID: 2666874720193582952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 256
+        width: 202
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b62bbd0677bb1fc0800000000000000
+      internalID: -3523020565822888268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 128
+        width: 186
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68889c22d338d5d0800000000000000
+      internalID: -3037620970877056918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 128
+        width: 183
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcdcf26bea3779c0800000000000000
+      internalID: -3929607367205004097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 128
+        width: 183
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2abb2074f07ee10800000000000000
+      internalID: 2226765338420945587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 128
+        width: 179
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7832ebaff4b5ac1d0800000000000000
+      internalID: -3329748575419751545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 129
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204e843b275171650800000000000000
+      internalID: 6203450594104501250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 184
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7949de03a99c35da0800000000000000
+      internalID: -5957196217998011241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greed (Magic)-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd949e03a2837f610800000000000000
+      internalID: 1654853141942323675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

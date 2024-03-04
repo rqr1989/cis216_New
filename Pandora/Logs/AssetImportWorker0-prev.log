@@ -15,11 +15,11 @@ C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58129
+49817
 Successfully changed project path to: C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 33.57 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 35.47 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.26f1 (7298b473bc1a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
@@ -35,73 +35,73 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56508
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56360
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001067 seconds.
+Registered in 0.000988 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 32.01 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 33.44 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.391 seconds
+- Completed reload, in  0.398 seconds
 Domain Reload Profiling:
-	ReloadAssembly (391ms)
-		BeginReloadAssembly (48ms)
+	ReloadAssembly (398ms)
+		BeginReloadAssembly (35ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (295ms)
-			LoadAssemblies (47ms)
+		EndReloadAssembly (311ms)
+			LoadAssemblies (34ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (92ms)
+			SetupTypeCache (96ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (19ms)
-			SetupLoadedEditorAssemblies (116ms)
+			RebuildScriptCaches (21ms)
+			SetupLoadedEditorAssemblies (124ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (32ms)
-				BeforeProcessingInitializeOnLoad (10ms)
-				ProcessInitializeOnLoadAttributes (52ms)
-				ProcessInitializeOnLoadMethodAttributes (18ms)
+				RefreshPlugins (34ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (56ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.008982 seconds.
+Registered in 0.004619 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 32.64 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 34.65 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.779 seconds
+- Completed reload, in  0.765 seconds
 Domain Reload Profiling:
-	ReloadAssembly (780ms)
-		BeginReloadAssembly (95ms)
+	ReloadAssembly (766ms)
+		BeginReloadAssembly (98ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (15ms)
-		EndReloadAssembly (642ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (625ms)
 			LoadAssemblies (69ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (196ms)
+			SetupTypeCache (197ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (30ms)
-			SetupLoadedEditorAssemblies (264ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (243ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (2ms)
+				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (33ms)
-				BeforeProcessingInitializeOnLoad (53ms)
-				ProcessInitializeOnLoadAttributes (130ms)
-				ProcessInitializeOnLoadMethodAttributes (42ms)
+				RefreshPlugins (35ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (134ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -110,14 +110,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2211 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 96.3 MB.
 System memory in use after: 96.4 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2646.
-Total: 2.200100 ms (FindLiveObjects: 0.125300 ms CreateObjectMapping: 0.037000 ms MarkObjects: 1.959400 ms  DeleteObjects: 0.077200 ms)
+Total: 2.265600 ms (FindLiveObjects: 0.120000 ms CreateObjectMapping: 0.039100 ms MarkObjects: 2.048900 ms  DeleteObjects: 0.056700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,105 +131,169 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Graphics/Platforms/New Cave of Delphi tilemap v2.png
-  artifactKey: Guid(a68ebb97ed2678c4b9c86dd02796a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Cave of Delphi tilemap v2.png using Guid(a68ebb97ed2678c4b9c86dd02796a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60c419fcc1c8e3661af0b54cdec77cc5') in 0.080796 seconds 
-  Import took 0.085254 seconds .
+  path: Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet.png
+  artifactKey: Guid(25490174865b3df4ba97238d7f7535d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet.png using Guid(25490174865b3df4ba97238d7f7535d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbd7adad86701845e7e39a0d10b52e6') in 0.078634 seconds 
+  Import took 0.083077 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.770436 seconds.
-  path: Assets/Graphics/Platforms/New Cave of Delphi tilemap v2.png
-  artifactKey: Guid(a68ebb97ed2678c4b9c86dd02796a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Cave of Delphi tilemap v2.png using Guid(a68ebb97ed2678c4b9c86dd02796a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a532a977d8bb0cb5cf6a5da5e12101') in 0.012290 seconds 
-  Import took 0.016790 seconds .
+  Time since last request: 247.508793 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet.png
+  artifactKey: Guid(25490174865b3df4ba97238d7f7535d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet.png using Guid(25490174865b3df4ba97238d7f7535d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3cacf850c48e7dd2fdfdbb3de0aaf5') in 0.111046 seconds 
+  Import took 0.116450 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.652273 seconds.
-  path: Assets/Graphics/Platforms/New Cave of Delphi tilemap v2.png
-  artifactKey: Guid(a68ebb97ed2678c4b9c86dd02796a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Cave of Delphi tilemap v2.png using Guid(a68ebb97ed2678c4b9c86dd02796a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2f923cc615e1df8f4dff91f29ea2e72') in 0.038838 seconds 
-  Import took 0.043484 seconds .
+  Time since last request: 221.285257 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet.png
+  artifactKey: Guid(25490174865b3df4ba97238d7f7535d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet.png using Guid(25490174865b3df4ba97238d7f7535d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b140e7414aa928d3a9dc9d499d9d0106') in 0.066622 seconds 
+  Import took 0.071446 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.077614 seconds.
-  path: Assets/Graphics/Platforms/Pandora-tileset-1.png
-  artifactKey: Guid(33118f3179e193947afb0d8eee3ed041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/Pandora-tileset-1.png using Guid(33118f3179e193947afb0d8eee3ed041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49b5bed12a1c9cdcee8a0e0cd044e14') in 0.014081 seconds 
-  Import took 0.018952 seconds .
+  Time since last request: 496.679480 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Special)-Sheet.png
+  artifactKey: Guid(9aa90966a0816744d82a84341f4f36c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Special)-Sheet.png using Guid(9aa90966a0816744d82a84341f4f36c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e26722ac8dc3c61af999644bf44eaef') in 0.052171 seconds 
+  Import took 0.057662 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.675543 seconds.
-  path: Assets/Graphics/Platforms/old platforms
-  artifactKey: Guid(d898b806ce5408746a8bf894eea3eaa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/old platforms using Guid(d898b806ce5408746a8bf894eea3eaa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234be049969be84312de5cda360d80a0') in 0.002641 seconds 
-  Import took 0.007695 seconds .
+  Time since last request: 119.563549 seconds.
+  path: Assets/Graphics/Characters/Envy/Envy Attack (Magic)-Sheet.png
+  artifactKey: Guid(90207f7b6b175af42bbd4df534b72e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Envy/Envy Attack (Magic)-Sheet.png using Guid(90207f7b6b175af42bbd4df534b72e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d3b3ed8c3cd0515eb2b365d9cb2b3c') in 0.023649 seconds 
+  Import took 0.028406 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.106760 seconds.
-  path: Assets/Graphics/Platforms/New Prefab 1.prefab
-  artifactKey: Guid(c3fdfad169c6f1f4da7147af1bdfbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Prefab 1.prefab using Guid(c3fdfad169c6f1f4da7147af1bdfbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd72ab450400b7453ee0f9fe5e67e728') in 0.015715 seconds 
-  Import took 0.020158 seconds .
+  Time since last request: 336.991124 seconds.
+  path: Assets/Graphics/Characters/Nemesis/Nemesis Walking-Sheet left.png
+  artifactKey: Guid(cf4f53210a488334ba543000ed172520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Nemesis/Nemesis Walking-Sheet left.png using Guid(cf4f53210a488334ba543000ed172520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5b60104ad29d66b026cd058f9bb2ec') in 0.013998 seconds 
+  Import took 0.018933 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.792997 seconds.
-  path: Assets/Graphics/Platforms/New Pandora TileMap.png
-  artifactKey: Guid(a03a78fe300b6334db23b1e77784b3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Pandora TileMap.png using Guid(a03a78fe300b6334db23b1e77784b3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6da18d33fafe6fe5332a5c59c0bb22c') in 0.013779 seconds 
-  Import took 0.019471 seconds .
+  Time since last request: 8.709445 seconds.
+  path: Assets/Graphics/Characters/Nemesis/Nemesis Walking-Sheet left.png
+  artifactKey: Guid(cf4f53210a488334ba543000ed172520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Nemesis/Nemesis Walking-Sheet left.png using Guid(cf4f53210a488334ba543000ed172520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2986b50fcd290001f271650e59ed8940') in 0.014219 seconds 
+  Import took 0.018788 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.225899 seconds.
-  path: Assets/Graphics/Platforms/New Pandora TileMap.png
-  artifactKey: Guid(a03a78fe300b6334db23b1e77784b3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Pandora TileMap.png using Guid(a03a78fe300b6334db23b1e77784b3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46057dbfbfc2b2643d0f7f9b0f4aa500') in 0.011104 seconds 
-  Import took 0.015733 seconds .
+  Time since last request: 6.989371 seconds.
+  path: Assets/Graphics/Characters/Nemesis/Nemesis Walking-Sheet left.png
+  artifactKey: Guid(cf4f53210a488334ba543000ed172520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Nemesis/Nemesis Walking-Sheet left.png using Guid(cf4f53210a488334ba543000ed172520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9cf5c1307c1b995e72c8eae6f96db07') in 0.032115 seconds 
+  Import took 0.035427 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.020714 seconds.
-  path: Assets/Graphics/Platforms/New Pandora TileMap.png
-  artifactKey: Guid(a03a78fe300b6334db23b1e77784b3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Pandora TileMap.png using Guid(a03a78fe300b6334db23b1e77784b3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bdee4ca1a9119414d22b272c37fc8fe') in 0.034527 seconds 
-  Import took 0.039138 seconds .
+  Time since last request: 584.752071 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Magic)-Sheet left.png
+  artifactKey: Guid(816f168e547260247b1923d79b314688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Magic)-Sheet left.png using Guid(816f168e547260247b1923d79b314688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e539fece4b9777e18be9c00f0134a3a') in 0.013973 seconds 
+  Import took 0.018145 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 211.546115 seconds.
-  path: Assets/Graphics/Platforms/New Pandora TileMap.png
-  artifactKey: Guid(a03a78fe300b6334db23b1e77784b3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Pandora TileMap.png using Guid(a03a78fe300b6334db23b1e77784b3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '966a726598318e82058da71c086c2e78') in 0.038736 seconds 
-  Import took 0.043872 seconds .
+  Time since last request: 12.373897 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Magic)-Sheet left.png
+  artifactKey: Guid(816f168e547260247b1923d79b314688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Magic)-Sheet left.png using Guid(816f168e547260247b1923d79b314688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7f77bff31537da15e749705a2b2b46e') in 0.011481 seconds 
+  Import took 0.015228 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 198.147255 seconds.
-  path: Assets/Graphics/Platforms/New Cave of Delphi tilemap v2.png
-  artifactKey: Guid(a68ebb97ed2678c4b9c86dd02796a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Cave of Delphi tilemap v2.png using Guid(a68ebb97ed2678c4b9c86dd02796a009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c4a12e16eb0d82c0d74aa7abb4c5f53') in 0.034623 seconds 
-  Import took 0.039057 seconds .
+  Time since last request: 380.704280 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Magic)-Sheet left.png
+  artifactKey: Guid(816f168e547260247b1923d79b314688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Magic)-Sheet left.png using Guid(816f168e547260247b1923d79b314688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368c7a5641e7d937c19cf80676e19b7a') in 0.042738 seconds 
+  Import took 0.047095 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 18.432616 seconds.
-  path: Assets/Graphics/Checkpoint Fire.png
-  artifactKey: Guid(b3755e3df96bd4345a2d565d5d02084a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Checkpoint Fire.png using Guid(b3755e3df96bd4345a2d565d5d02084a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a592b6f02da954c3662b392ce2ffd80') in 0.007062 seconds 
-  Import took 0.011588 seconds .
+  Time since last request: 9.749396 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet left.png
+  artifactKey: Guid(c6493566eaff78145bcc303876b0b461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet left.png using Guid(c6493566eaff78145bcc303876b0b461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b0499180938a9e42d457ccded398287') in 0.015602 seconds 
+  Import took 0.018819 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.635936 seconds.
-  path: Assets/Graphics/Checkpoint Fire.png
-  artifactKey: Guid(b3755e3df96bd4345a2d565d5d02084a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Checkpoint Fire.png using Guid(b3755e3df96bd4345a2d565d5d02084a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8c5446102bb1425870b3c553d2138e') in 0.026462 seconds 
-  Import took 0.030922 seconds .
+  Time since last request: 6.340057 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet left.png
+  artifactKey: Guid(c6493566eaff78145bcc303876b0b461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet left.png using Guid(c6493566eaff78145bcc303876b0b461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47e6350685802e4c8c4da89fd569ba3') in 0.011120 seconds 
+  Import took 0.015336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 371.949107 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet left.png
+  artifactKey: Guid(c6493566eaff78145bcc303876b0b461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Melee)-Sheet left.png using Guid(c6493566eaff78145bcc303876b0b461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8176b436838e5a68ca28026417c45c5') in 0.048486 seconds 
+  Import took 0.052245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.471551 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Special)-Sheet left.png
+  artifactKey: Guid(3889f9e93eeb0e94f9babb3d8031636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Special)-Sheet left.png using Guid(3889f9e93eeb0e94f9babb3d8031636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2582ebb02084e876a479e4d9f965c3f5') in 0.014172 seconds 
+  Import took 0.017847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.233779 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Special)-Sheet left.png
+  artifactKey: Guid(3889f9e93eeb0e94f9babb3d8031636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Special)-Sheet left.png using Guid(3889f9e93eeb0e94f9babb3d8031636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe88b3d3d077b9c3ee828fbd6766e81') in 0.011698 seconds 
+  Import took 0.014910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 516.276927 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Special)-Sheet left.png
+  artifactKey: Guid(3889f9e93eeb0e94f9babb3d8031636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Special)-Sheet left.png using Guid(3889f9e93eeb0e94f9babb3d8031636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c973c5f24c2584c5de76bde8eab22983') in 0.042127 seconds 
+  Import took 0.046343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.935631 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed (Special)-Sheet.png
+  artifactKey: Guid(9aa90966a0816744d82a84341f4f36c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed (Special)-Sheet.png using Guid(9aa90966a0816744d82a84341f4f36c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea340f6e7ada502de77c066e0d103bc') in 0.045039 seconds 
+  Import took 0.048601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.140567 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed Walking-Sheet left.png
+  artifactKey: Guid(b7070ea9d05ae6c4395dfcc9f5559258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed Walking-Sheet left.png using Guid(b7070ea9d05ae6c4395dfcc9f5559258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d67cb84c6670b9bbfe89ebc4793bdc3') in 0.026251 seconds 
+  Import took 0.029215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.715536 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed Walking-Sheet left.png
+  artifactKey: Guid(b7070ea9d05ae6c4395dfcc9f5559258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed Walking-Sheet left.png using Guid(b7070ea9d05ae6c4395dfcc9f5559258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60be8c7e03d38ba0675c03f70e7f3c35') in 0.011420 seconds 
+  Import took 0.014984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.950713 seconds.
+  path: Assets/Graphics/Characters/Greed/Greed Walking-Sheet left.png
+  artifactKey: Guid(b7070ea9d05ae6c4395dfcc9f5559258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Greed/Greed Walking-Sheet left.png using Guid(b7070ea9d05ae6c4395dfcc9f5559258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8e64490c486247129cf76a062a0d85') in 0.030440 seconds 
+  Import took 0.033968 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

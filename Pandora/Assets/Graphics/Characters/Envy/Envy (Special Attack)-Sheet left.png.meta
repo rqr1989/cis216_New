@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: c39ecdadfa1e1954da8b524e9c9c0419
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4882828166969894079
+    second: Envy (Special Attack)-left 4
+  - first:
+      213: -4972127985564281635
+    second: Envy (Special Attack)-left 3
+  - first:
+      213: 6546575833320634769
+    second: Envy (Special Attack)-left 2
+  - first:
+      213: -5992165461086567112
+    second: Envy (Special Attack)-left 1
+  - first:
+      213: -7025281008954780232
+    second: Envy (Special Attack)-left 8
+  - first:
+      213: -2233939479895219441
+    second: Envy (Special Attack)-left 7
+  - first:
+      213: -5056984557292369259
+    second: Envy (Special Attack)-left 6
+  - first:
+      213: -4982689262338273015
+    second: Envy (Special Attack)-left 5
+  - first:
+      213: 7589446599897795212
+    second: Envy (Special Attack)-left 11
+  - first:
+      213: 8384694195596548273
+    second: Envy (Special Attack)-left 10
+  - first:
+      213: -3170921742554460087
+    second: Envy (Special Attack)-left 9
+  - first:
+      213: 2357378374000275964
+    second: Envy (Special Attack)-left 12
+  - first:
+      213: -4618856551431493250
+    second: Envy (Special Attack)-Sheet left_23
+  - first:
+      213: -3411665660533823259
+    second: Envy (Special Attack)-Sheet left_24
+  - first:
+      213: -8709895116257690105
+    second: Envy (Special Attack)-Sheet left_25
+  - first:
+      213: -7610049008867415454
+    second: Envy (Special Attack)-Sheet left_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 27
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bdc7807a5bc3cb0800000000000000
+      internalID: -4882828166969894079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 384
+        width: 30
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd499aac0f37ffab0800000000000000
+      internalID: -4972127985564281635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 384
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199bb30090c1ada50800000000000000
+      internalID: 6546575833320634769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 1
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 384
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8350290d24d87dca0800000000000000
+      internalID: -5992165461086567112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 258
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d3f5d420318e90800000000000000
+      internalID: -7025281008954780232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ef1301e37ff0e0800000000000000
+      internalID: -2233939479895219441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 256
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ac3f3965bf1d9b0800000000000000
+      internalID: -5056984557292369259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 255
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9019c2ce38ee9dab0800000000000000
+      internalID: -4982689262338273015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 127
+        width: 47
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a44b4d871235960800000000000000
+      internalID: 7589446599897795212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8dfc662fa6c5470800000000000000
+      internalID: 8384694195596548273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 128
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9409a74b97f9ef3d0800000000000000
+      internalID: -3170921742554460087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-left 12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf17977242717b020800000000000000
+      internalID: 2357378374000275964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-Sheet left_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 67
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a07f207686efb0800000000000000
+      internalID: -4618856551431493250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-Sheet left_24
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 68
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8ab73582457a0d0800000000000000
+      internalID: -3411665660533823259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-Sheet left_25
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 68
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70efc8ce98c302780800000000000000
+      internalID: -8709895116257690105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envy (Special Attack)-Sheet left_26
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae4270fbca36690800000000000000
+      internalID: -7610049008867415454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
