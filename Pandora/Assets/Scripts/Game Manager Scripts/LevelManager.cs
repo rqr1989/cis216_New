@@ -7,19 +7,20 @@ using UnityEngine.SceneManagement;
 public class LevelManager : MonoBehaviour
 {
     //declare levelsUnlocked
-    int levelsUnlocked;
+    int levelsUnlocked = 1;
 
     //declare checkpointsUnlocked
-    int checkpointsUnlocked;
+    int checkpointsUnlocked = 0;
 
     //holds the transform value
     public Vector3 lastCheckPointActivated;
 
     //declare boolean levelWon and set to false
     bool levelWon = false;
+    
     //need fixing a placeholder value
-    int playerStartPos = 0;
-
+   public int playerStartPos = 0;
+  
     //levelWon function
     public void levelIsWon()
     {
@@ -39,6 +40,8 @@ public class LevelManager : MonoBehaviour
         levelLoad();
 
         checkpointLoad();
+        
+     
 
     }
 
@@ -52,147 +55,67 @@ public class LevelManager : MonoBehaviour
     //update function
     void Update()
     {
-        //if levelWon equals true
-        if (levelWon == true)
+        if (levelWon)
         {
-
+            // Reset checkpoint to 0
             checkpointsUnlocked = 0;
-            //and if levelsUnlocked is less than 9
+
+            // Unlock next level if not the final level
             if (levelsUnlocked < 9)
             {
-
-                //increment levelsUnlocked by one
+                //increment level
                 levelsUnlocked++;
 
                 //save new value to levelsUnlocked
                 PlayerPrefs.SetInt("levelsUnlocked", levelsUnlocked);
-                //set checkpoint to 0
-                PlayerPrefs.GetInt("checkpointsUnlocked", 0);
             }
-            else if (levelsUnlocked > 9)
+            else
             {
-
-                //load the credits scene
+                // Load credits scene if it's the final level
                 SceneManager.LoadScene(10);
             }
 
-            //sets levelWon back to false
+            // Reset level won
             levelWon = false;
-
         }
-
     }
+      
+     
 
-    //level load function
-    void levelLoad()
+//level load function
+public void levelLoad()
+    {
+        //load last level unlocked
+        SceneManager.LoadScene(levelsUnlocked);
+    }
+public void checkpointLoad()
     {
 
-        //if levelsUnlocked is less than or equal to 1
-        if (levelsUnlocked >= 1)
+        switch (checkpointsUnlocked)
         {
-            //load level 1
-            SceneManager.LoadScene(1);
+            case 1:
+                playerStartPos = 1;
+                break;
+            case 2:
+                playerStartPos = 2;
+                break;
+            case 3:
+                playerStartPos = 3;
+                break;
+            case 4:
+                playerStartPos = 4;
+                break;
+            default:
+                playerStartPos = 0; // Default to beginning of level
+                break;
         }
-        //else if levelsUnlocked equals 2
-        else if (levelsUnlocked == 2)
-        {
-
-            //load level 2
-            SceneManager.LoadScene(2);
-        }
-
-        //else if levelsUnlocked equals 3
-        else if (levelsUnlocked == 3)
-        {
-
-            //load level three
-            SceneManager.LoadScene(3);
-        }
-
-        //else if levelsUnlcoked equals 4
-        else if (levelsUnlocked == 4)
-        {
-
-            //load level 4
-            SceneManager.LoadScene(4);
-        }
-
-        //else if levelsUnlocked equals 5
-        else if (levelsUnlocked == 5)
-        {
-
-            //load level five
-            SceneManager.LoadScene(5);
-        }
-
-        //else if levelsUnlocked equals 6
-        else if (levelsUnlocked == 6)
-        {
-
-            //load level six
-            SceneManager.LoadScene(6);
-        }
-
-        //else if levelsUnlocked equals 7
-        else if (levelsUnlocked == 7)
-        {
-
-            //load level seven
-            SceneManager.LoadScene(7);
-        }
-        //else if levelsUnlocked equals 8
-        else if (levelsUnlocked == 8)
-        {
-            //load level eight
-            SceneManager.LoadScene(8);
-        }
-        //else if levelsUnlocked equals 9
-        else if (levelsUnlocked == 9)
-        {
-
-            //load level nine
-            SceneManager.LoadScene(9);
-        }
-
-
     }
-    void checkpointLoad()
+
+    
+    public void SaveCheckpoint(Vector3 checkpointPosition)
     {
-        //if checkpointsUnlocked equals 0
-        if (checkpointsUnlocked == 0)
-        {
-
-            //player starts at beginning of level
-            // playerStartPos == (0);
-        }
-        //if checkpointsUnlocked equals 1
-        else if (checkpointsUnlocked == 01)
-        {
-            //player starts at checkpoint1
-
-        }
-        //if checkpointsUnlocked equals 2
-        else if (checkpointsUnlocked == 02)
-        {
-            //player position is at checkpoint 2
-        }
-        //else if checkpointsUnlocked equals 3
-        else if (checkpointsUnlocked == 03)
-        {
-            //player position is at checkpoint 3
-        }
-        //else if checkpointsUnlocked equals 4
-        else if (checkpointsUnlocked == 04)
-        {
-            //player pos is at  checkpoint4
-        }
-       
-        /*//else if checkpoints unlcoked is eauql to 5 or more
-        else if (checkpointsUnlocked >= 5)
-        {
-            //set back to 0
-            checkpointsUnlocked = 0;
-        }
-        */
+        lastCheckPointActivated = checkpointPosition;
+        checkpointsUnlocked = 0; // Assuming you want to unlock at least the first checkpoint upon activation
+        PlayerPrefs.SetInt("checkpointsUnlocked", checkpointsUnlocked);
     }
 }

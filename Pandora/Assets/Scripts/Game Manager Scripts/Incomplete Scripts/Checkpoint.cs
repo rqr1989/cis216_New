@@ -5,6 +5,7 @@ using UnityEngine;
 public class Checkpoint : MonoBehaviour
 {
 private LevelManager lm;
+ 
 
     void onTriggerEnter2D(Collider2D other)
     {
@@ -12,15 +13,15 @@ private LevelManager lm;
        //if player collides with checkpoint
         if(other.CompareTag("Player")){
 
-         //sets lastCheckPointActivated to current player position
-        lm.lastCheckPointActivated = transform.position;
+         //sets SavelastCheckPointActivated to current player position
+        lm.SaveCheckpoint (transform.position);
         }
 
     }
     // Start is called before the first frame update
     void Start()
     {
-
+         lm = FindObjectOfType<LevelManager>();
     }
  
 }
