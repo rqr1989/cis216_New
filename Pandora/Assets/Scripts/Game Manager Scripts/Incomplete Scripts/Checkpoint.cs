@@ -6,7 +6,7 @@ public class Checkpoint : MonoBehaviour
 {
 private LevelManager lm;
 
-  /*  void onTriggerEnter2D(Collider2D other)
+    void onTriggerEnter2D(Collider2D other)
     {
 
        //if player collides with checkpoint
@@ -20,7 +20,7 @@ private LevelManager lm;
     // Start is called before the first frame update
     void Start()
     {
-       // lm= gameObject.FindGameObjectWithTag("SDM").GetComponent<LevelManager>();
+
     }
- */
+ 
 }

@@ -14,6 +14,15 @@ TagManager:
   - 8
   - 9
   - 10
+  - c1
+  - c2
+  - c3
+  - c4
+  - 0
+  - 01
+  - 02
+  - 03
+  - 04
   layers:
   - Default
   - TransparentFX
