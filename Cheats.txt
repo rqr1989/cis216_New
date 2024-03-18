@@ -1,0 +1,36 @@
+Cheats:
+
+Basics:
+Jump from platform to platform while defeating enemies with melee and magic attacks. 
+Collect mana and health potions when you find them to restore health and mana.
+Approach braziers to activate checkpoints.
+Defeat  the level boss to win or complete quest objectives to beat the level.
+
+Controls:
+
+ Move Left = A/left arrow
+Move Right = D/right arrow
+Jump = space button
+Pause Menu = escape button
+Melee Attack = U
+Basic spell attack = I
+Ice spell attack = O 
+Health Regen Spell = P
+Fire Spell attack = J
+Time spell attack = K 
+Sand spell attack = L
+Crouch - down arrow/ S
+Dodge = F
+
+Walkthrough:
+For a visual represnetation of each  level's main path see  the level design section of the design doc.
+
+Level One Walkthrough:
+
+
+
+
+Level Two Walkthrough:
+
+
+Level Three Walkthrough:
