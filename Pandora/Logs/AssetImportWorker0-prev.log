@@ -1,0 +1,267 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.26f1 (7298b473bc1a) revision 7510196'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 32429 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63952
+Successfully changed project path to: C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
+C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x24dd)
+    Vendor:   
+    VRAM:     8033 MB
+    Driver:   31.0.15.3734
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56668
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001038 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.392 seconds
+Domain Reload Profiling:
+	ReloadAssembly (392ms)
+		BeginReloadAssembly (35ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (307ms)
+			LoadAssemblies (33ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (99ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (19ms)
+			SetupLoadedEditorAssemblies (118ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (33ms)
+				BeforeProcessingInitializeOnLoad (10ms)
+				ProcessInitializeOnLoadAttributes (53ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004670 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.768 seconds
+Domain Reload Profiling:
+	ReloadAssembly (769ms)
+		BeginReloadAssembly (95ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (629ms)
+			LoadAssemblies (66ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (205ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (240ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (33ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (134ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2647.
+Total: 2.233600 ms (FindLiveObjects: 0.116900 ms CreateObjectMapping: 0.034800 ms MarkObjects: 2.014100 ms  DeleteObjects: 0.066800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Walking-Sheet (1).png
+  artifactKey: Guid(4d7c5bf026c1c404eaff0218d9ff92ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Walking-Sheet (1).png using Guid(4d7c5bf026c1c404eaff0218d9ff92ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccdfeebe0d209b07442ff8b314a1785e') in 0.068737 seconds 
+  Import took 0.073497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.341820 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Walking-Sheet (1).png
+  artifactKey: Guid(4d7c5bf026c1c404eaff0218d9ff92ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Walking-Sheet (1).png using Guid(4d7c5bf026c1c404eaff0218d9ff92ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17702f5db3938e1befa5f106d352205d') in 0.007723 seconds 
+  Import took 0.012501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.750326 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Walking-Sheet (1).png
+  artifactKey: Guid(4d7c5bf026c1c404eaff0218d9ff92ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Walking-Sheet (1).png using Guid(4d7c5bf026c1c404eaff0218d9ff92ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3d94182ed36e655117fdfe4082d0aa2') in 0.036914 seconds 
+  Import took 0.041965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.676868 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Attack-Sheet (1).png
+  artifactKey: Guid(5de6ffc3f7f5faf48b8963411195df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Attack-Sheet (1).png using Guid(5de6ffc3f7f5faf48b8963411195df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e389acc73bef5509a6ff171f7b96838b') in 0.013260 seconds 
+  Import took 0.018383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.699947 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Attack-Sheet (1).png
+  artifactKey: Guid(5de6ffc3f7f5faf48b8963411195df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Attack-Sheet (1).png using Guid(5de6ffc3f7f5faf48b8963411195df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8522e6bf14a2f464400b0fc07eab1607') in 0.013902 seconds 
+  Import took 0.018656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.670451 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Attack-Sheet (1).png
+  artifactKey: Guid(5de6ffc3f7f5faf48b8963411195df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Attack-Sheet (1).png using Guid(5de6ffc3f7f5faf48b8963411195df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf69d4d96ba6f58a2022b230492174a') in 0.049823 seconds 
+  Import took 0.054346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.593892 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Attack Left.png
+  artifactKey: Guid(2577bd04ea89d574384856d47af5a814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Attack Left.png using Guid(2577bd04ea89d574384856d47af5a814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07a42d8c075b81dcbfb9bfacd2920f4') in 0.014909 seconds 
+  Import took 0.019897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.934500 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Attack Left.png
+  artifactKey: Guid(2577bd04ea89d574384856d47af5a814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Attack Left.png using Guid(2577bd04ea89d574384856d47af5a814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8378b8219071f423a0028d2f651a17') in 0.009894 seconds 
+  Import took 0.014588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.780262 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Attack Left.png
+  artifactKey: Guid(2577bd04ea89d574384856d47af5a814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Attack Left.png using Guid(2577bd04ea89d574384856d47af5a814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2cb1674d32a039fe2eddb2af5c8b2bc') in 0.045394 seconds 
+  Import took 0.050436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.656872 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Walking Left.png
+  artifactKey: Guid(22b7c2d7a4689e0448b27c4dc950e0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Walking Left.png using Guid(22b7c2d7a4689e0448b27c4dc950e0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9dd77a6ec9edab3a4aa132d149f3473') in 0.015760 seconds 
+  Import took 0.020536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.108032 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Walking Left.png
+  artifactKey: Guid(22b7c2d7a4689e0448b27c4dc950e0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Walking Left.png using Guid(22b7c2d7a4689e0448b27c4dc950e0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caecac22e767dcf8d51b9f4896a92739') in 0.012859 seconds 
+  Import took 0.017777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.728903 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Walking Left.png
+  artifactKey: Guid(22b7c2d7a4689e0448b27c4dc950e0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Walking Left.png using Guid(22b7c2d7a4689e0448b27c4dc950e0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2988e2c2782d88f767010f85711874ff') in 0.031511 seconds 
+  Import took 0.036153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.137545 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconplasticnotifyincoming.png
+  artifactKey: Guid(f31d2c855644aad4cb2030bce12859f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconplasticnotifyincoming.png using Guid(f31d2c855644aad4cb2030bce12859f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae28834fd3acb92075f448566e1ff06') in 0.019036 seconds 
+  Import took 0.024074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconplasticnotifyincoming.png
+  artifactKey: Guid(1e6c9635b80f973488d8335a081c905f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconplasticnotifyincoming.png using Guid(1e6c9635b80f973488d8335a081c905f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22cdc7fe4bdb24170f0fbca344f50777') in 0.008476 seconds 
+  Import took 0.013138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconplasticnotifyincoming@2x.png
+  artifactKey: Guid(c5fc116b3271b5947808130b2212cd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconplasticnotifyincoming@2x.png using Guid(c5fc116b3271b5947808130b2212cd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b56116d029081c9af5b6145c14832a') in 0.011308 seconds 
+  Import took 0.016185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconplasticnotifyincoming@2x.png
+  artifactKey: Guid(ae869fe6797f4454cbbf417d87ff637c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/iconplasticnotifyincoming@2x.png using Guid(ae869fe6797f4454cbbf417d87ff637c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0484a3290272c5b9c3ff6c4495891f76') in 0.010063 seconds 
+  Import took 0.014833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.374085 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur-Sheet (1).png
+  artifactKey: Guid(a6c55838b19449a4fa754252c7150232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur-Sheet (1).png using Guid(a6c55838b19449a4fa754252c7150232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad6b443eb9a8417c1296e66c3b7ef8b') in 0.012523 seconds 
+  Import took 0.017097 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

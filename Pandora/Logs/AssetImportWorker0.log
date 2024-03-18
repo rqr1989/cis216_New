@@ -15,11 +15,11 @@ C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50989
+64646
 Successfully changed project path to: C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 35.52 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 35.93 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.26f1 (7298b473bc1a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
@@ -35,31 +35,31 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56576
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56292
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001024 seconds.
+Registered in 0.001054 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 34.55 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 34.49 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.406 seconds
+- Completed reload, in  0.394 seconds
 Domain Reload Profiling:
-	ReloadAssembly (406ms)
-		BeginReloadAssembly (37ms)
+	ReloadAssembly (394ms)
+		BeginReloadAssembly (33ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (317ms)
-			LoadAssemblies (35ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (310ms)
+			LoadAssemblies (32ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (98ms)
+			SetupTypeCache (96ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (21ms)
-			SetupLoadedEditorAssemblies (124ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (123ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
@@ -73,34 +73,34 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005037 seconds.
+Registered in 0.004804 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 33.56 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 34.06 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.758 seconds
+- Completed reload, in  0.759 seconds
 Domain Reload Profiling:
 	ReloadAssembly (759ms)
-		BeginReloadAssembly (93ms)
+		BeginReloadAssembly (94ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (14ms)
-		EndReloadAssembly (624ms)
-			LoadAssemblies (68ms)
+		EndReloadAssembly (622ms)
+			LoadAssemblies (66ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (198ms)
+			SetupTypeCache (200ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (241ms)
+			SetupLoadedEditorAssemblies (239ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (2ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (34ms)
-				BeforeProcessingInitializeOnLoad (58ms)
-				ProcessInitializeOnLoadAttributes (131ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (132ms)
 				ProcessInitializeOnLoadMethodAttributes (12ms)
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
@@ -110,14 +110,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2212 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 96.3 MB.
 System memory in use after: 96.4 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2647.
-Total: 2.211100 ms (FindLiveObjects: 0.123500 ms CreateObjectMapping: 0.032600 ms MarkObjects: 1.986400 ms  DeleteObjects: 0.067700 ms)
+Total: 2.257700 ms (FindLiveObjects: 0.116500 ms CreateObjectMapping: 0.034200 ms MarkObjects: 2.049500 ms  DeleteObjects: 0.056400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,65 +131,25 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Graphics/Platforms/New Cave of Delphi tilemap march 17.png
-  artifactKey: Guid(df55bb9f41172cc43963140217255da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Cave of Delphi tilemap march 17.png using Guid(df55bb9f41172cc43963140217255da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '537abbfdc78fab1f9f67c1628e881b05') in 0.065363 seconds 
-  Import took 0.069804 seconds .
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Walking Left.png
+  artifactKey: Guid(22b7c2d7a4689e0448b27c4dc950e0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Walking Left.png using Guid(22b7c2d7a4689e0448b27c4dc950e0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53bd696df6b5c67f4c5428ce604c1d1') in 0.097264 seconds 
+  Import took 0.101829 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.859139 seconds.
-  path: Assets/Graphics/Platforms/New Cave of Delphi tilemap march 17.png
-  artifactKey: Guid(df55bb9f41172cc43963140217255da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Cave of Delphi tilemap march 17.png using Guid(df55bb9f41172cc43963140217255da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e920fc8f3424b6b9194e25cf6f8cfb0') in 0.014832 seconds 
-  Import took 0.019463 seconds .
+  Time since last request: 252.284188 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Attack-Sheet (1).png
+  artifactKey: Guid(5de6ffc3f7f5faf48b8963411195df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Attack-Sheet (1).png using Guid(5de6ffc3f7f5faf48b8963411195df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0894b89a8f81553761c2de5b1679e429') in 0.050784 seconds 
+  Import took 0.058012 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.934449 seconds.
-  path: Assets/Graphics/Platforms/New Pandora TileMap March 17.png
-  artifactKey: Guid(2132ed372ab572b4e830d47e5b1f3d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Pandora TileMap March 17.png using Guid(2132ed372ab572b4e830d47e5b1f3d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f88d6c653d8b7ceb0fc809e9b94f3d') in 0.010689 seconds 
-  Import took 0.015655 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.255231 seconds.
-  path: Assets/Graphics/Platforms/New Pandora TileMap March 17.png
-  artifactKey: Guid(2132ed372ab572b4e830d47e5b1f3d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Pandora TileMap March 17.png using Guid(2132ed372ab572b4e830d47e5b1f3d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcda78871fd9cd6af93330b58a8b3388') in 0.009541 seconds 
-  Import took 0.013902 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 141.100677 seconds.
-  path: Assets/Graphics/Platforms/New Pandora TileMap March 17.png
-  artifactKey: Guid(2132ed372ab572b4e830d47e5b1f3d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Pandora TileMap March 17.png using Guid(2132ed372ab572b4e830d47e5b1f3d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '950076dbfa6754229550748e212ee4da') in 0.051448 seconds 
-  Import took 0.056906 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 477.213230 seconds.
-  path: Assets/Graphics/Platforms/New Cave of Delphi tilemap march 17.png
-  artifactKey: Guid(df55bb9f41172cc43963140217255da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Cave of Delphi tilemap march 17.png using Guid(df55bb9f41172cc43963140217255da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0844d978475f95fa423de8374c28923') in 0.049643 seconds 
-  Import took 0.055103 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.328143 seconds.
-  path: Assets/Graphics/Platforms/New Cave of Delphi tilemap march 17.png
-  artifactKey: Guid(df55bb9f41172cc43963140217255da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Cave of Delphi tilemap march 17.png using Guid(df55bb9f41172cc43963140217255da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf642150acbde1db103978466b57f47') in 0.050211 seconds 
-  Import took 0.055002 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.041234 seconds.
-  path: Assets/Graphics/Platforms/New Cave of Delphi tilemap march 17.png
-  artifactKey: Guid(df55bb9f41172cc43963140217255da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Platforms/New Cave of Delphi tilemap march 17.png using Guid(df55bb9f41172cc43963140217255da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9e40b8b23c81fee312b5f648f7fec1') in 0.048096 seconds 
-  Import took 0.052798 seconds .
+  Time since last request: 191.575511 seconds.
+  path: Assets/Graphics/Characters/Minotaur/Minotaur Attack Left.png
+  artifactKey: Guid(2577bd04ea89d574384856d47af5a814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Characters/Minotaur/Minotaur Attack Left.png using Guid(2577bd04ea89d574384856d47af5a814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389d54bc1de6c14f108ce242b6e96005') in 0.048800 seconds 
+  Import took 0.053919 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
