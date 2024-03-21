@@ -15,11 +15,11 @@ C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53294
+63393
 Successfully changed project path to: C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 C:/Users/donto/OneDrive/Documents/GitHub/cis216_New/Pandora
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 35.96 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 35.98 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.26f1 (7298b473bc1a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
@@ -35,89 +35,89 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56564
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56640
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001066 seconds.
+Registered in 0.001077 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 34.27 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 35.03 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.402 seconds
+- Completed reload, in  0.410 seconds
 Domain Reload Profiling:
-	ReloadAssembly (402ms)
-		BeginReloadAssembly (35ms)
+	ReloadAssembly (411ms)
+		BeginReloadAssembly (36ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (315ms)
-			LoadAssemblies (33ms)
+		EndReloadAssembly (322ms)
+			LoadAssemblies (34ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (100ms)
+			SetupTypeCache (101ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (20ms)
-			SetupLoadedEditorAssemblies (123ms)
+			SetupLoadedEditorAssemblies (128ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (34ms)
-				BeforeProcessingInitializeOnLoad (11ms)
-				ProcessInitializeOnLoadAttributes (55ms)
-				ProcessInitializeOnLoadMethodAttributes (19ms)
+				RefreshPlugins (35ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (58ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005129 seconds.
+Registered in 0.003603 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 33.71 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 36.74 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.779 seconds
+- Completed reload, in  0.845 seconds
 Domain Reload Profiling:
-	ReloadAssembly (780ms)
-		BeginReloadAssembly (100ms)
+	ReloadAssembly (846ms)
+		BeginReloadAssembly (112ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (15ms)
-		EndReloadAssembly (637ms)
-			LoadAssemblies (69ms)
+		EndReloadAssembly (689ms)
+			LoadAssemblies (62ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (208ms)
+			SetupTypeCache (235ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (243ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (261ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (2ms)
+				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (34ms)
-				BeforeProcessingInitializeOnLoad (55ms)
-				ProcessInitializeOnLoadAttributes (135ms)
+				RefreshPlugins (37ms)
+				BeforeProcessingInitializeOnLoad (59ms)
+				ProcessInitializeOnLoadAttributes (145ms)
 				ProcessInitializeOnLoadMethodAttributes (12ms)
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2212 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 96.3 MB.
 System memory in use after: 96.4 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2647.
-Total: 2.328000 ms (FindLiveObjects: 0.160900 ms CreateObjectMapping: 0.033100 ms MarkObjects: 2.077300 ms  DeleteObjects: 0.055600 ms)
+Total: 2.399400 ms (FindLiveObjects: 0.138100 ms CreateObjectMapping: 0.037800 ms MarkObjects: 2.141000 ms  DeleteObjects: 0.081500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,145 +131,129 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet.png
-  artifactKey: Guid(ecfa15d7cba5fbd4cbc84dd1b22375fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet.png using Guid(ecfa15d7cba5fbd4cbc84dd1b22375fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '430a4e89d214b0de534783dd46aa5e79') in 0.065875 seconds 
-  Import took 0.070610 seconds .
+  path: Assets/Graphics/pandora main menu.png
+  artifactKey: Guid(161a694e74978fc42a5185af624d1c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/pandora main menu.png using Guid(161a694e74978fc42a5185af624d1c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '064af862650e4325d571347a5a3f0d07') in 0.076219 seconds 
+  Import took 0.080658 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.136929 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet.png
-  artifactKey: Guid(ecfa15d7cba5fbd4cbc84dd1b22375fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet.png using Guid(ecfa15d7cba5fbd4cbc84dd1b22375fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2974b550a165eceffaf530b1e3ce4591') in 0.013808 seconds 
-  Import took 0.018390 seconds .
+  Time since last request: 289.867026 seconds.
+  path: Assets/pandora main menu 2.png
+  artifactKey: Guid(c2126b0361ff02e4d83bd7f3add14346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pandora main menu 2.png using Guid(c2126b0361ff02e4d83bd7f3add14346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1053d446f0816b9440955fadf6952803') in 0.022130 seconds 
+  Import took 0.027311 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 309.558915 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet.png
-  artifactKey: Guid(ecfa15d7cba5fbd4cbc84dd1b22375fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet.png using Guid(ecfa15d7cba5fbd4cbc84dd1b22375fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e66f36c8a97fc67ed7e8db7d2046d8bb') in 0.055870 seconds 
-  Import took 0.066968 seconds .
+  Time since last request: 6.297621 seconds.
+  path: Assets/Graphics/Platforms/old platforms/Pandora-tileset-1-sheet.png
+  artifactKey: Guid(6cb959160d9b1d2478b387ee24e8ffd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/Platforms/old platforms/Pandora-tileset-1-sheet.png using Guid(6cb959160d9b1d2478b387ee24e8ffd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bae4cf0bcd470584d8262668b0eb4bd') in 0.050045 seconds 
+  Import took 0.054760 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.889276 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet.png
-  artifactKey: Guid(8f57295f596942b4c99fcbb3639bf0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet.png using Guid(8f57295f596942b4c99fcbb3639bf0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '883e7b0df475fc7bc863cba59d619b7c') in 0.015004 seconds 
-  Import took 0.019808 seconds .
+  Time since last request: 278.768881 seconds.
+  path: Assets/pandora main menu 3.png
+  artifactKey: Guid(2e12891aa5c80134d8c223f9fa7a531c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pandora main menu 3.png using Guid(2e12891aa5c80134d8c223f9fa7a531c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7890c8e2eaf5b5eb19630bd49b10df09') in 0.020922 seconds 
+  Import took 0.025623 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.809947 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet.png
-  artifactKey: Guid(8f57295f596942b4c99fcbb3639bf0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet.png using Guid(8f57295f596942b4c99fcbb3639bf0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2096a70da6cd135d61cff674d6a0fcda') in 0.012204 seconds 
-  Import took 0.016753 seconds .
+  Time since last request: 122.934869 seconds.
+  path: Assets/pandora main menu 4.png
+  artifactKey: Guid(a868744e72e290b4cae8c7bb77c34ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pandora main menu 4.png using Guid(a868744e72e290b4cae8c7bb77c34ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee0aaae2e51d27de5cfcb8a856a5839') in 0.025878 seconds 
+  Import took 0.030842 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 97.800284 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet.png
-  artifactKey: Guid(8f57295f596942b4c99fcbb3639bf0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet.png using Guid(8f57295f596942b4c99fcbb3639bf0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2e42f95533c8a550d9b6a213844311') in 0.033246 seconds 
-  Import took 0.037889 seconds .
+  Time since last request: 224.365161 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/Handles/ss_leftrange.png
+  artifactKey: Guid(9417efc47083f4a1598c1966a6345cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/Handles/ss_leftrange.png using Guid(9417efc47083f4a1598c1966a6345cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cac329b1e98816bb3dfd99145a4b9e57') in 0.023930 seconds 
+  Import took 0.029096 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 96.310815 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet left.png
-  artifactKey: Guid(ba4abd1840ed313459294aeb78210ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet left.png using Guid(ba4abd1840ed313459294aeb78210ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c773cf9aaa74b8202b8d0c84d5dd93') in 0.015663 seconds 
-  Import took 0.020767 seconds .
+  Time since last request: 1.942073 seconds.
+  path: Assets/left corner art.png
+  artifactKey: Guid(6e63f200b57f07144873085db530b65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/left corner art.png using Guid(6e63f200b57f07144873085db530b65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81f2fd08a21222207694234539f62e16') in 0.016359 seconds 
+  Import took 0.021111 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.567554 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet left.png
-  artifactKey: Guid(ba4abd1840ed313459294aeb78210ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet left.png using Guid(ba4abd1840ed313459294aeb78210ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d6de4f972f11441d18d60d1363139d') in 0.010633 seconds 
-  Import took 0.015347 seconds .
+  Time since last request: 229.170844 seconds.
+  path: Assets/pandora main menu  right corner art.png
+  artifactKey: Guid(410be7be622fd454a98097111d5c7caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pandora main menu  right corner art.png using Guid(410be7be622fd454a98097111d5c7caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4853a620c25367c2d50353500f2e2e60') in 0.021001 seconds 
+  Import took 0.026426 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 282.211597 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet left.png
-  artifactKey: Guid(ba4abd1840ed313459294aeb78210ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet left.png using Guid(ba4abd1840ed313459294aeb78210ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9298c69fe06736e5c6e5ff731d37c1') in 0.051389 seconds 
-  Import took 0.056502 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003118 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.743 seconds
+Domain Reload Profiling:
+	ReloadAssembly (743ms)
+		BeginReloadAssembly (90ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (610ms)
+			LoadAssemblies (60ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (224ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (218ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (63ms)
+				ProcessInitializeOnLoadAttributes (140ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2201 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.7 MB.
+System memory in use after: 98.8 MB.
 
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2690.
+Total: 2.135000 ms (FindLiveObjects: 0.127500 ms CreateObjectMapping: 0.033900 ms MarkObjects: 1.956300 ms  DeleteObjects: 0.016100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 11.797277 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet left.png
-  artifactKey: Guid(1af89d06427920a428103e00f42ebf61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet left.png using Guid(1af89d06427920a428103e00f42ebf61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881125bfa808f68d9ec80f0727e5fbad') in 0.014958 seconds 
-  Import took 0.019703 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.671839 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet left.png
-  artifactKey: Guid(1af89d06427920a428103e00f42ebf61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet left.png using Guid(1af89d06427920a428103e00f42ebf61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33690a8733fd0076d4df46f56b6bd714') in 0.009589 seconds 
-  Import took 0.015716 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 152.665931 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet left.png
-  artifactKey: Guid(1af89d06427920a428103e00f42ebf61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Walking-Sheet left.png using Guid(1af89d06427920a428103e00f42ebf61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fe0dc64a9c346128c74fef3fafbf06e') in 0.028738 seconds 
-  Import took 0.034051 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 34.998445 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/character_Mode.png
-  artifactKey: Guid(d4d64a6cd9624c34a815dd79fb2a20a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/character_Mode.png using Guid(d4d64a6cd9624c34a815dd79fb2a20a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ee3ee2502e20a93ce2d3c62772096f') in 0.020591 seconds 
-  Import took 0.025869 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/character_Mode@2x.png
-  artifactKey: Guid(5d52b20f865aff242bfcb08c3b6f61a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/character_Mode@2x.png using Guid(5d52b20f865aff242bfcb08c3b6f61a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc17a0a827e88d93db0dbe8e86bf98ad') in 0.014918 seconds 
-  Import took 0.019780 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000336 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/character_Mode@2x.png
-  artifactKey: Guid(25096ce515c063c48a2bd6b108c95912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/character_Mode@2x.png using Guid(25096ce515c063c48a2bd6b108c95912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c18aaefa5a5908cc47c724afc509aff') in 0.010117 seconds 
-  Import took 0.014778 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000297 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/character_Mode@3x.png
-  artifactKey: Guid(dcea51d6065d64246aeec467afeff684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/character_Mode@3x.png using Guid(dcea51d6065d64246aeec467afeff684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24023654949800a56769174570832449') in 0.013041 seconds 
-  Import took 0.018092 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000327 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/character_Mode.png
-  artifactKey: Guid(e60718119cec31e4190849292fcde068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/character_Mode.png using Guid(e60718119cec31e4190849292fcde068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26dfa14428d88831d6cb36d5e7c07a21') in 0.010368 seconds 
-  Import took 0.014597 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 420.285412 seconds.
-  path: Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet.png
-  artifactKey: Guid(ecfa15d7cba5fbd4cbc84dd1b22375fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Characters/Harpy/Harpy Attack-Sheet.png using Guid(ecfa15d7cba5fbd4cbc84dd1b22375fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22d902c5cd0a85d17f3c1d329a1d88d') in 0.049807 seconds 
-  Import took 0.055050 seconds .
+  Time since last request: 558.435909 seconds.
+  path: Assets/Main Menu Music Option 1.mp3
+  artifactKey: Guid(19ea293a644615046b8712dee3bc5e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Menu Music Option 1.mp3 using Guid(19ea293a644615046b8712dee3bc5e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ee4f599d88516bdd527a12b743a636') in 0.040276 seconds 
+  Import took 0.045046 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: b4fbad89e8d62ab44af6e1306929e859
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3960076587460481341
+    second: Epimetheus Drawing Sword-Sheet_0
+  - first:
+      213: 107606287700358003
+    second: Epimetheus Drawing Sword-Sheet_1
+  - first:
+      213: -2315925250525961484
+    second: Epimetheus Drawing Sword-Sheet_2
+  - first:
+      213: -6741079495395013916
+    second: Epimetheus Drawing Sword-Sheet_3
+  - first:
+      213: 2186781813567151783
+    second: Epimetheus Drawing Sword-Sheet_4
+  - first:
+      213: -430148069279568322
+    second: Epimetheus Drawing Sword-Sheet_5
+  - first:
+      213: -138277132502430593
+    second: Epimetheus Drawing Sword-Sheet_6
+  - first:
+      213: 8768344994214661899
+    second: Epimetheus Drawing Sword-Sheet_7
+  - first:
+      213: -3732379327858220509
+    second: Epimetheus Drawing Sword-Sheet_8
+  - first:
+      213: -6620743079770082101
+    second: Epimetheus Drawing Sword-Sheet_9
+  - first:
+      213: 4509928956882797592
+    second: Epimetheus Drawing Sword-Sheet_10
+  - first:
+      213: 8520635356621768249
+    second: Epimetheus Drawing Sword-Sheet_11
+  - first:
+      213: 7493138229860982067
+    second: Epimetheus Drawing Sword-Sheet_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 282
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea319335bfa09c0800000000000000
+      internalID: -3960076587460481341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 282
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3737af9395b4e7100800000000000000
+      internalID: 107606287700358003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 282
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2ea04414e2cdfd0800000000000000
+      internalID: -2315925250525961484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 282
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea8f4a2aefd272a0800000000000000
+      internalID: -6741079495395013916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 188
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae54fe2972095e10800000000000000
+      internalID: 2186781813567151783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 188
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e65c92c9ec70af0800000000000000
+      internalID: -430148069279568322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 188
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c02ac3eadb41ef0800000000000000
+      internalID: -138277132502430593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 188
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f4d38c05b6fa970800000000000000
+      internalID: 8768344994214661899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 94
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322effbb6cce33cc0800000000000000
+      internalID: -3732379327858220509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 94
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4bd254f356e14a0800000000000000
+      internalID: -6620743079770082101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 94
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8144f3ddd7c769e30800000000000000
+      internalID: 4509928956882797592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 94
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936031c66b06f3670800000000000000
+      internalID: 8520635356621768249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epimetheus Drawing Sword-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d53cb0589fcf760800000000000000
+      internalID: 7493138229860982067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
